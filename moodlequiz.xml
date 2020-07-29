@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/moodlequiz/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="numerical">
+<name>
+<text> Q1 : second </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>¿Cuál es la derivada de <span class="math inline">\(f(x) = x^{5} e^{2.6 x}\)</span>, evaluada en <span class="math inline">\(x = 0.69\)</span>?</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<answer fraction="100" format="moodle_auto_format">
+<text>9.26</text>
+<tolerance>0.01</tolerance>
+</answer>
+</question>
+
+</quiz>
